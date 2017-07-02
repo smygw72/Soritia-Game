@@ -1,1 +1,66 @@
-﻿  OpenGlFormApp.vcxproj -> C:\Users\sho-m\Documents\Visual Studio 2015\Projects\kubo\game\Debug\OpenGlFormApp.exe
+﻿cl : コマンド ライン warning D9035: オプション 'clr:pure' の使用は現在推奨されていません。今後のバージョンからは削除されます。
+  stdafx.cpp
+cl : コマンド ライン warning D9035: オプション 'clr:pure' の使用は現在推奨されていません。今後のバージョンからは削除されます。
+  AssemblyInfo.cpp
+AssemblyInfo.cpp(40): warning C4947: 'System::Security::Permissions::SecurityAction::RequestMinimum': 古い形式に設定されています。
+  AssemblyInfo.cpp(40): note: メッセージ: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+  game.cpp
+game.cpp(245): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+game.cpp(261): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+game.cpp(298): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+game.cpp(464): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+game.cpp(481): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  glPanel.cpp
+  OpenGlFormApp.cpp
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(375): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(383): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(386): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(389): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(392): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(399): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(412): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(412): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(415): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(415): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(418): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(418): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(421): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(421): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(439): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(439): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(442): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(442): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(445): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(445): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(448): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(448): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(775): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(778): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(821): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(822): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(823): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(824): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(825): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(826): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(827): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(828): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(875): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(876): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(877): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(878): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(879): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(880): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(881): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(882): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(928): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(929): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(930): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(931): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(932): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(933): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(934): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\test\opengl_kubo\game\Form1.h(935): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+  コードを生成中...
+cl : コマンド ライン warning D9035: オプション 'clr:pure' の使用は現在推奨されていません。今後のバージョンからは削除されます。
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  OpenGlFormApp.vcxproj -> C:\Users\sho-m\Documents\Visual Studio 2015\Projects\Test\OpenGL_kubo\game\Debug\OpenGlFormApp.exe
