@@ -1,0 +1,28 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+AssemblyInfo.cpp(40): warning C4947: 'System::Security::Permissions::SecurityAction::RequestMinimum': 古い形式に設定されています。
+  AssemblyInfo.cpp(40): note: メッセージ: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+  game.cpp
+game.cpp(187): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+game.cpp(203): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+game.cpp(241): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  glPanel.cpp
+  OpenGlFormApp.cpp
+c:\users\sho-m\documents\visual studio 2015\projects\kubo\game\Form1.h(347): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\sho-m\documents\visual studio 2015\projects\kubo\game\Form1.h(355): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\kubo\game\Form1.h(358): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\kubo\game\Form1.h(361): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\kubo\game\Form1.h(364): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\kubo\game\Form1.h(654): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\sho-m\documents\visual studio 2015\projects\kubo\game\Form1.h(657): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\sho-m\documents\visual studio 2015\projects\kubo\game\Form1.h(700): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\kubo\game\Form1.h(701): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\kubo\game\Form1.h(702): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\kubo\game\Form1.h(703): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\kubo\game\Form1.h(704): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\kubo\game\Form1.h(705): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\kubo\game\Form1.h(706): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\kubo\game\Form1.h(707): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+  コードを生成中...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  OpenGlFormApp.vcxproj -> C:\Users\sho-m\Documents\Visual Studio 2015\Projects\kubo\game\Release\OpenGlFormApp.exe

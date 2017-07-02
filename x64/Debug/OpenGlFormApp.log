@@ -1,0 +1,8 @@
+﻿  OpenGlFormApp.cpp
+c:\users\sho-m\documents\visual studio 2015\projects\kubo\game\Form1.h(99): warning C4312: '型キャスト': 'int' からより大きいサイズの 'HWND' へ変換します。
+c:\users\sho-m\documents\visual studio 2015\projects\kubo\game\Form1.h(361): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\kubo\game\Form1.h(362): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\kubo\game\Form1.h(363): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+c:\users\sho-m\documents\visual studio 2015\projects\kubo\game\Form1.h(364): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: 未解決の外部シンボル WinMain が関数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) で参照されました。
+C:\Users\sho-m\Documents\Visual Studio 2015\Projects\kubo\game\x64\Debug\OpenGlFormApp.exe : fatal error LNK1120: 1 件の未解決の外部参照
